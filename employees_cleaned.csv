@@ -1,0 +1,41 @@
+EmployeeID,FirstName,LastName,FullName,Email,Phone,Gender,JobTitle,Department,HireDate,Salary,CommissionRate,PerformanceScore,OfficeLocation,Hire_Year,Hire_Month,Tenure_Years,Orders_Count,Total_Sales,Avg_Order_Value,Total_Commission
+1,Mark,Johnson,Mark Johnson,mark.johnson@ecombooks.com,5335218196,Male,Junior Sales Associate,Online Retail,2024-11-02,3959.0,0.02,3.7,London Branch,2024,November,1.9,289,31223.42,108.04,624.47
+2,Lance,Hoffman,Lance Hoffman,lance.hoffman@ecombooks.com,14865379402,Male,Sales Team Lead,Direct Sales,2025-12-08,7209.0,0.05,4.4,Dubai Center,2025,December,0.8,314,32238.35,102.67,1611.92
+3,George,Davis,George Davis,george.davis@ecombooks.com,8553940781,Male,Customer Success Specialist,Customer Success,2025-01-13,4232.0,0.02,3.3,New York HQ,2025,January,1.7,329,32904.11,100.01,658.08
+4,Edward,Fuller,Edward Fuller,edward.fuller@ecombooks.com,9937103413,Male,Sales Representative,Direct Sales,2023-05-19,4717.0,0.03,4.3,Dubai Center,2023,May,3.3,316,30763.47,97.35,922.9
+5,Jacob,Clark,Jacob Clark,jacob.clark@ecombooks.com,7192283276,Male,Sales Team Lead,Direct Sales,2023-08-30,8330.0,0.05,4.5,Tokyo Hub,2023,August,3.0,302,31453.33,104.15,1572.67
+6,Rodney,Trujillo,Rodney Trujillo,rodney.trujillo@ecombooks.com,5416395376,Male,Key Account Manager,Corporate Accounts,2025-11-12,7706.0,0.05,3.7,New York HQ,2025,November,0.8,312,31794.49,101.91,1589.72
+7,Kevin,Hurst,Kevin Hurst,kevin.hurst@ecombooks.com,3538287101,Male,Sales Team Lead,Direct Sales,2024-04-23,7865.0,0.05,3.8,London Branch,2024,April,2.4,334,32553.57,97.47,1627.68
+8,Kyle,Mcdonald,Kyle Mcdonald,kyle.mcdonald@ecombooks.com,2806184514,Male,Senior Sales Executive,Corporate Accounts,2024-10-25,5709.0,0.04,3.4,New York HQ,2024,October,1.9,315,30827.4,97.86,1233.1
+9,Pamela,Romero,Pamela Romero,pamela.romero@ecombooks.com,2487932528,Female,Senior Sales Executive,Corporate Accounts,2024-10-07,6736.0,0.04,3.7,New York HQ,2024,October,1.9,312,31298.04,100.31,1251.92
+10,Alicia,Hickman,Alicia Hickman,alicia.hickman@ecombooks.com,4306391171,Female,Customer Success Specialist,Customer Success,2024-12-06,3927.0,0.02,5.0,Tokyo Hub,2024,December,1.8,287,30792.09,107.29,615.84
+11,Shane,Henderson,Shane Henderson,shane.henderson@ecombooks.com,3835465787,Male,Customer Success Specialist,Customer Success,2023-08-24,4100.0,0.02,4.7,Dubai Center,2023,August,3.0,342,34483.07,100.83,689.66
+12,Amy,Smith,Amy Smith,amy.smith@ecombooks.com,12397301031,Female,Customer Success Specialist,Customer Success,2022-12-28,3996.0,0.02,4.5,New York HQ,2022,December,3.7,296,29490.95,99.63,589.82
+13,Jose,Ramirez,Jose Ramirez,jose.ramirez@ecombooks.com,8387299737,Male,Senior Sales Executive,Corporate Accounts,2024-06-28,5663.0,0.04,4.7,New York HQ,2024,June,2.2,323,32889.13,101.82,1315.57
+14,Jennifer,Shields,Jennifer Shields,jennifer.shields@ecombooks.com,9104651333,Female,Senior Sales Executive,Corporate Accounts,2024-06-25,6428.0,0.04,4.3,Berlin Office,2024,June,2.2,319,33598.22,105.32,1343.93
+15,Clifford,Ford,Clifford Ford,clifford.ford@ecombooks.com,4788108013,Male,Senior Sales Executive,Corporate Accounts,2024-10-02,6227.0,0.04,3.6,Berlin Office,2024,October,1.9,293,30568.2,104.33,1222.73
+16,John,Hancock,John Hancock,john.hancock@ecombooks.com,9264064746,Male,Customer Success Specialist,Customer Success,2023-06-30,4450.0,0.02,3.5,London Branch,2023,June,3.2,302,32452.03,107.46,649.04
+17,Edward,Novak,Edward Novak,edward.novak@ecombooks.com,14802500978,Male,Key Account Manager,Corporate Accounts,2024-11-05,7277.0,0.05,3.7,Dubai Center,2024,November,1.8,323,31024.78,96.05,1551.24
+18,Bobby,Lopez,Bobby Lopez,bobby.lopez@ecombooks.com,18137619399,Male,Sales Team Lead,Direct Sales,2026-08-31,7664.0,0.05,4.7,New York HQ,2026,August,0.0,333,31830.69,95.59,1591.53
+19,Dean,Santiago,Dean Santiago,dean.santiago@ecombooks.com,3345624751,Male,Junior Sales Associate,Online Retail,2024-11-02,3523.0,0.02,3.9,New York HQ,2024,November,1.9,294,29817.39,101.42,596.35
+20,Derek,Mahoney,Derek Mahoney,derek.mahoney@ecombooks.com,2356427849,Male,Customer Success Specialist,Customer Success,2026-08-26,4697.0,0.02,4.5,London Branch,2026,August,0.0,299,30106.25,100.69,602.12
+21,Mary,Mcmillan,Mary Mcmillan,mary.mcmillan@ecombooks.com,5417182449,Female,Key Account Manager,Corporate Accounts,2023-07-22,7816.0,0.05,4.0,Berlin Office,2023,July,3.1,337,34188.02,101.45,1709.4
+22,Michael,Farrell,Michael Farrell,michael.farrell@ecombooks.com,8742016400,Male,Sales Representative,Direct Sales,2023-03-01,4962.0,0.03,4.2,Berlin Office,2023,March,3.5,322,32563.9,101.13,976.92
+23,Angela,Ware,Angela Ware,angela.ware@ecombooks.com,2806598262,Female,Customer Success Specialist,Customer Success,2024-03-28,4208.0,0.02,3.9,London Branch,2024,March,2.5,316,31041.02,98.23,620.82
+24,Stephanie,Flynn,Stephanie Flynn,stephanie.flynn@ecombooks.com,4535315869,Female,Junior Sales Associate,Online Retail,2026-05-14,3973.0,0.02,3.3,New York HQ,2026,May,0.3,316,30732.52,97.25,614.65
+25,Christopher,Marsh,Christopher Marsh,christopher.marsh@ecombooks.com,3608256342,Male,Sales Team Lead,Direct Sales,2026-05-25,7327.0,0.05,4.6,Tokyo Hub,2026,May,0.3,294,27650.82,94.05,1382.54
+26,Andrew,Ruiz,Andrew Ruiz,andrew.ruiz@ecombooks.com,7756433036,Male,Key Account Manager,Corporate Accounts,2026-05-13,7281.0,0.05,4.3,Tokyo Hub,2026,May,0.3,338,36652.85,108.44,1832.64
+27,Andrea,Ayala,Andrea Ayala,andrea.ayala@ecombooks.com,3868850142,Female,Customer Success Specialist,Customer Success,2024-02-28,4681.0,0.02,4.9,New York HQ,2024,February,2.5,317,32272.65,101.81,645.45
+28,Monica,Edwards,Monica Edwards,monica.edwards@ecombooks.com,15817693406,Female,Sales Team Lead,Direct Sales,2024-07-09,7696.0,0.05,3.4,Tokyo Hub,2024,July,2.2,294,31613.61,107.53,1580.68
+29,Benjamin,Beck,Benjamin Beck,benjamin.beck@ecombooks.com,8958148465,Male,Key Account Manager,Corporate Accounts,2025-07-27,6506.0,0.05,4.9,Berlin Office,2025,July,1.1,301,30921.06,102.73,1546.05
+30,Paul,Thompson,Paul Thompson,paul.thompson@ecombooks.com,17469804436,Male,Customer Success Specialist,Customer Success,2024-07-26,4734.0,0.02,3.4,Berlin Office,2024,July,2.1,313,30604.57,97.78,612.09
+31,Jeremy,Lewis,Jeremy Lewis,jeremy.lewis@ecombooks.com,2212489513,Male,Sales Representative,Direct Sales,2023-09-24,4582.0,0.03,4.6,Dubai Center,2023,September,3.0,340,32186.12,94.67,965.58
+32,William,Carr,William Carr,william.carr@ecombooks.com,15174693676,Male,Customer Success Specialist,Customer Success,2026-02-09,4131.0,0.02,4.1,New York HQ,2026,February,0.6,319,33909.51,106.3,678.19
+33,Tina,Holmes,Tina Holmes,tina.holmes@ecombooks.com,7839172788,Female,Senior Sales Executive,Corporate Accounts,2025-04-17,5990.0,0.04,3.3,Dubai Center,2025,April,1.4,317,31737.69,100.12,1269.51
+34,Robert,Mcclain,Robert Mcclain,robert.mcclain@ecombooks.com,3876277434,Male,Junior Sales Associate,Online Retail,2023-09-08,3949.0,0.02,4.1,New York HQ,2023,September,3.0,300,31511.26,105.04,630.23
+35,Devon,Flores,Devon Flores,devon.flores@ecombooks.com,18128236231,Male,Sales Representative,Direct Sales,2024-02-05,4875.0,0.03,4.1,Dubai Center,2024,February,2.6,352,35729.6,101.5,1071.89
+36,Joshua,Perry,Joshua Perry,joshua.perry@ecombooks.com,7666909670,Male,Senior Sales Executive,Corporate Accounts,2025-11-22,6580.0,0.04,4.8,Tokyo Hub,2025,November,0.8,298,31185.61,104.65,1247.42
+37,James,Snow,James Snow,james.snow@ecombooks.com,4889937346,Male,Customer Success Specialist,Customer Success,2026-08-07,4573.0,0.02,4.5,London Branch,2026,August,0.1,257,27091.74,105.42,541.83
+38,Bethany,Dean,Bethany Dean,bethany.dean@ecombooks.com,4692901627,Female,Key Account Manager,Corporate Accounts,2023-10-18,7875.0,0.05,4.4,Tokyo Hub,2023,October,2.9,306,31413.84,102.66,1570.69
+39,Jamie,Lewis,Jamie Lewis,jamie.lewis@ecombooks.com,2562464170,Female,Junior Sales Associate,Online Retail,2023-09-28,3453.0,0.02,3.6,Berlin Office,2023,September,2.9,330,34499.19,104.54,689.98
+40,Curtis,Smith,Curtis Smith,curtis.smith@ecombooks.com,7324719374,Male,Customer Success Specialist,Customer Success,2025-04-07,4367.0,0.02,3.6,London Branch,2025,April,1.4,299,31163.08,104.22,623.26
